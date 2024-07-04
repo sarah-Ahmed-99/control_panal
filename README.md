@@ -170,4 +170,4 @@ Steps to create a simple web interface to control a bot and display its latest m
     </html>
  ### Web-based control interface:
  
-<img src="C:\Users\HP\Desktop\5780701861165254790_121.jpg" width="150">
+![5780701861165254790_121](https://github.com/sarah-Ahmed-99/control_panal/assets/174282340/6267876a-0d25-4899-adf1-05f3121e3134)
