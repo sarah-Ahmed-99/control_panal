@@ -171,6 +171,9 @@ Steps to create a simple web interface to control a bot and display its latest m
  ### Web-based control interface:
  ![5780701861165254790_121](https://github.com/sarah-Ahmed-99/control_panal/assets/174282340/c2cb3bba-313e-413d-8255-9e340846b107)
  
+ ### Database interation:
+   
+ 
  
 <img src=" https://github.com/sarah-Ahmed-99/control_panal/assets/174282340/6267876a-0d25-4899-adf1-05f3121e3134">
  ### Database intgration:
