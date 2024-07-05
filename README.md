@@ -180,8 +180,5 @@ Steps to create a simple web interface to control a bot and display its latest m
    
  
  
-<img src=" https://github.com/sarah-Ahmed-99/control_panal/assets/174282340/6267876a-0d25-4899-adf1-05f3121e3134">
- ### Database intgration:
-<img src= "https://github.com/sarah-Ahmed-99/control_panal/assets/174282340/5e4d7c2b-7a48-437e-aa8a-185643489df3">
 
 
