@@ -175,6 +175,7 @@ Steps to create a simple web interface to control a bot and display its latest m
  ![5780701861165254791_120](https://github.com/sarah-Ahmed-99/control_panal/assets/174282340/47e584bd-e437-4536-b865-16c4279e9154)
  
  ### Last movement dirction:
+ ![5780701861165254789_121](https://github.com/sarah-Ahmed-99/control_panal/assets/174282340/d6826b1e-0a3b-41ec-a20c-ea51c97d6514)
  
    
  
